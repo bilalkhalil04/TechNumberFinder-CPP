@@ -39,6 +39,4 @@ g++ tech-number.cpp -o tech-number
 Then run:
 
 ./tech-number
-Author
 
-Muhammad Bilal Khalil
